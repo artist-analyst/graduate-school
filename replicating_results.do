@@ -4,7 +4,7 @@ log using "king_assignment7.log", replace
 clear
 
 /* PhD Research Practicum */
-/* Assignment 6 */
+/* Assignment 7 */
 /* Robb King */
 /* 03/16/17 */
 
